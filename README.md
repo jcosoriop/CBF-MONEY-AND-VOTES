@@ -1,4 +1,5 @@
-# CBF MONEY AND VOTES
+# The influence of campaign money in the 2021 Mayoral Democratic Primary
+
  
  This research looks into the relationship between the Money the top 8 candidates in the 2021 Democratic Mayoral Primary raised and the actual election resuls. The main goal of this project was to answer how much each campaign spent per vote with the money they were able to raise in public and private funds.
  
